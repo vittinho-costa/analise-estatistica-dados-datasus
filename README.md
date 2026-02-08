@@ -154,8 +154,5 @@ The project includes:
 - Matplotlib  
 - SciPy  
 
----
 
-## 📁 Estrutura do Repositório
-## 📁 Repository Structure
 
